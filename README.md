@@ -7,5 +7,4 @@ HTML,
 CSS
 
 Library:-
-
 NUMPY
