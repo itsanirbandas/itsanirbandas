@@ -9,4 +9,4 @@ HTML,
 CSS
 
 Library:-
-NUMPY,Pandas
+NUMPY,PANDAS
